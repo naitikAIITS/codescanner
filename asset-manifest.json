@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codescanner/static/css/main.f855e6bc.css",
+    "main.js": "/codescanner/static/js/main.0a69ed6a.js",
+    "index.html": "/codescanner/index.html",
+    "main.f855e6bc.css.map": "/codescanner/static/css/main.f855e6bc.css.map",
+    "main.0a69ed6a.js.map": "/codescanner/static/js/main.0a69ed6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0a69ed6a.js"
+  ]
+}
