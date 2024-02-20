@@ -33,7 +33,7 @@ function App() {
   
   
   return (
-    <div>
+    <div style={{margin:'5px'}}>
       <h3>QR code scanner</h3>
       {
         scanResult
